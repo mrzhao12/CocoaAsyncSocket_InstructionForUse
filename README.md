@@ -4,11 +4,13 @@
 
 （通络通讯里只要链接成功，发送数据就会回应，这是ping的原理）。只要协商好数据格式就没事的。网上有很多对CocoaAsyncSocket又一次封装的案例，有些太高大上没看懂，就直接用CocoaAsyncSocket里的方法了。网上对CocoaAsyncSocket二次封装的有：
 
-1.https://github.com/zhu410289616/RHSocketKit绝对🐂可惜我没看懂
+1.https://github.com/zhu410289616/RHSocketKit
 
-2.https://github.com/Yuzeyang/GCDAsyncSocketManagerGitHub - Yuzeyang/GCDAsyncSocketManager: GCDAsyncSocketManager provides qiuick-to-use GCDAsyncSocket to build socket
+绝对🐂可惜我没看懂
 
-3.https://github.com/icoderRo/LCWeChatGitHub - icoderRo/LCWeChat: 有需要的小伙伴
+2.https://github.com/Yuzeyang/GCDAsyncSocketManager
+
+3.https://github.com/icoderRo/LCWeChat
 
 没事可以看看，祝大家多学习学习
 争取以后有机会封装下
